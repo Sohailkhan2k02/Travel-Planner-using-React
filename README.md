@@ -16,4 +16,4 @@ Refresh the page to load new tours if none are available.
 2. Navigate to the project directory: `cd Travel-Planner-using-React`.
 3. Install dependencies: `npm install`.
 4. Start the development server: `npm run dev`.
-5. Open [http://localhost:3000](http://localhost:5143) in your browser to view the application.
+5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
